@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlalchemy
+pydantic
+passlib
+pyjwt
+pymysql
